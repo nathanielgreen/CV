@@ -1,48 +1,73 @@
-## Your Name
+## Nathaniel Green
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A technology enthusiast with a passion for creating new things every day. Recently finished the Makers Academy coding course. Currently a junior developer looking for full-time employment in web/app development in London.
 
 ## Skills
 
-#### This Skill
+#### Web Development
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- [Ushare](https://github.com/nathanielgreen/Ushare), my final projects at
+  Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
+  sharing app built using Meteor, Leaflet.js, with a Rails Back-end, hooking
+  into the Uber API.
+- [Ravebot](https://github.com/nathanielgreen/ravebot), a social playlist curation
+  app built for iOS and Android using the Ionic Framework and Rails for the
+  backend.
 
-- Experience
-- Achievements
-- Evidence
+#### Fast and Passionate Learner
 
-#### Another Skill
+- Grasped a good understanding of multiple languages and different technologies in a short space of time
+  through self-taught learning and using online resources, as well as Makers
+  Academy Resources.
+- Having a strong interest in current mobile technology influenced my decision
+  to learn [Meteor](http://meteor.com/), a powerful Javascript framework that
+  can create phone apps quickly and easily and has been the basis for multiple
+  personal projects of mine.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Technologies and Languages
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+|            | Comfortable                    | Know                | Touched upon           |
+|:----------:| ------------------------------ | ------------------- | ---------------------- |
+| Languages  | Ruby, Javascript, HTML5, CSS3  | jQuery              | Python                 |
+| Frameworks | Ruby-on-Rails, Sinatra, Meteor | Angular.js, Ionic   | Node.js, Express.js    |
+| Tests      | Rspec, Capybara, Jasmine       | Protractor, Karma   | Factory Girl           |
+| Databases  | PostgreSQL                     | MongoDB, DataMapper | Firebase               |
+| Other      | Git Version Control            | Heroku              |                        |
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2015 to November 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Makers Academy is a 12 week full-time coding bootcamp.
 
-#### Your University / College (start_date to end_date)
+- Took part in pair-programming every day over the 12 weeks.
+- Exposed to best coding practices and theories such as Test-driven Development,
+  Red-Green-Refactoring, Agile Learning.
+- Experience of programming in teams during Makerthon, a 4-day project, and in
+  Makers Academy Final Projects, a 2-week project, working in teams of 4-5
+  members.
+- Working to deadlines and being able to produce functional MVP's quickly that
+  can be built upon with ease.
+- Can work well in high-pressure situations with limited time windows.
+ 
+#### St. Peters School, York (2011 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A-Levels: Geography, Classical Civilisation, Mathematics
+- Extra-Curriculum: School Radio - [Radio627](http://www.radio627.co.uk)
 
-#### Any other qualifications
+## Other qualifications
 
-## Experience
+#### Technology Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+- **Linux**: Have been using Ubuntu as a daily driver OS for over a year, and am
+  competent in setting up linux machines for use in a development environment.
+  Also have experience with other distributions such as XFCE, Arch and Debian.
+- **Computer Building**: Have built and customised multiple desktop computers in
+  the past and am very familiar with different hardware specifications and
+  components. I also have experience with hardware problem diagnosis.
+
+## Contact
+
+- Email: ngreen2303@gmail.com
+- Github: http://github.com/nathanielgreen/
+- Site (under construction): http://ngreen.co/
