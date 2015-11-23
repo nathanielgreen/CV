@@ -1,24 +1,24 @@
 ## Nathaniel Green
 
-A technology enthusiast with a passion for creating new things every day. Recently finished the Makers Academy coding course. Currently a junior developer looking for full-time employment in web/app development in London.
+A technology enthusiast with a passion for creating new things. Recently finished the Makers Academy coding course and currently looking for full-time employment as a junior web developer in London.
 
 ## Skills
 
 #### Web Development
 
-- [Ushare](https://github.com/nathanielgreen/Ushare), my final projects at
+- [Ushare](https://github.com/nathanielgreen/Ushare), my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
-  sharing app built using Meteor, Leaflet.js, with a Rails Back-end, hooking
+  sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
   into the Uber API.
 - [Ravebot](https://github.com/nathanielgreen/ravebot), a social playlist curation
   app built for iOS and Android using the Ionic Framework and Rails for the
-  backend.
+  back end.
 
 #### Fast and Passionate Learner
 
 - Grasped a good understanding of multiple languages and different technologies in a short space of time
   through self-taught learning and using online resources, as well as Makers
-  Academy Resources.
+  Academy resources.
 - Having a strong interest in current mobile technology influenced my decision
   to learn [Meteor](http://meteor.com/), a powerful Javascript framework that
   can create phone apps quickly and easily and has been the basis for multiple
@@ -41,12 +41,12 @@ A technology enthusiast with a passion for creating new things every day. Recent
 Makers Academy is a 12 week full-time coding bootcamp.
 
 - Took part in pair-programming every day over the 12 weeks.
-- Exposed to best coding practices and theories such as Test-driven Development,
-  Red-Green-Refactoring, Agile Learning.
+- Exposed to best coding practices and theories such as Test Driven Development,
+  Red-Green-Refactoring, Agile learning.
 - Experience of programming in teams during Makerthon, a 4-day project, and in
-  Makers Academy Final Projects, a 2-week project, working in teams of 4-5
+  Makers Academy final projects, a 2-week project, working in teams of 4-5
   members.
-- Working to deadlines and being able to produce functional MVP's quickly that
+- Working to deadlines and being able to produce functional MVPs quickly that
   can be built upon with ease.
 - Can work well in high-pressure situations with limited time windows.
  
