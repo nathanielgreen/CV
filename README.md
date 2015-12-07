@@ -50,7 +50,7 @@ Makers Academy is a 12 week full-time coding bootcamp.
   can be built upon with ease.
 - Can work well in high-pressure situations with limited time windows.
  
-#### St. Peters School, York (2011 to 2015)
+#### St. Peters School, York (2010 to 2015)
 
 - A-Levels: Geography, Classical Civilisation, Mathematics
 - Extra-Curriculum: School Radio - [Radio627](http://www.radio627.co.uk)
