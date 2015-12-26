@@ -70,4 +70,5 @@ Makers Academy is a 12 week full-time coding bootcamp.
 
 - Email: ngreen2303@gmail.com
 - Github: http://github.com/nathanielgreen/
-- Site (under construction): http://ngreen.co/
+- CV: http://github.com/nathanielgreen/CV/
+- Website: http://ngreen.co/
