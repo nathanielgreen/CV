@@ -61,7 +61,7 @@ Makers Academy is a 12 week full-time coding bootcamp.
 
 - **Linux**: Have been using Ubuntu as a daily driver OS for over a year, and am
   competent in setting up linux machines for use in a development environment.
-  Also have experience with other distributions such as XFCE, Arch and Debian.
+  Also have experience with other distributions such as Arch and Debian.
 - **Computer Building**: Have built and customised multiple desktop computers in
   the past and am very familiar with different hardware specifications and
   components. I also have experience with hardware problem diagnosis.
