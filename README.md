@@ -13,6 +13,10 @@ A technology enthusiast with a passion for creating new things. Recently finishe
 - [Ravebot](https://github.com/nathanielgreen/ravebot), a social playlist curation
   app built for iOS and Android using the Ionic Framework and Rails for the
   back end.
+- [Show Star Website](https://github.com/nathanielgreen/showstar), A website
+  built for the company ShowStar Entertainments, made to showcase various clubs
+  and events owned by the company. It was built in close contact with the client
+  with very specific design requests.
 
 #### Fast and Passionate Learner
 
@@ -26,13 +30,13 @@ A technology enthusiast with a passion for creating new things. Recently finishe
 
 #### Technologies and Languages
 
-|            | Comfortable                    | Know                | Touched upon           |
-|:----------:| ------------------------------ | ------------------- | ---------------------- |
-| Languages  | Ruby, Javascript, HTML5, CSS3  | jQuery              | Python                 |
-| Frameworks | Ruby-on-Rails, Sinatra, Meteor | Angular.js, Ionic   | Node.js, Express.js    |
-| Tests      | Rspec, Capybara, Jasmine       | Protractor, Karma   | Factory Girl           |
-| Databases  | PostgreSQL                     | MongoDB, DataMapper | Firebase               |
-| Other      | Git Version Control            | Heroku              |                        |
+|            | Comfortable                              | Know                                              | Touched upon           |
+|:----------:| --------------------------------------   | ------------------------------------------------- | ---------------------- |
+| Languages  | Ruby, Javascript, HTML5, CSS3,           | jQuery                                            | Python                 |
+| Frameworks | Ruby-on-Rails, Sinatra, Meteor, Node.js  | Angular.js, Ionic, React, Express.js              | Backbone.js            |
+| Tests      | Rspec, Capybara, Jasmine                 | Protractor, Karma                                 | Factory Girl           |
+| Databases  | PostgreSQL                               | MongoDB, DataMapper                               | Firebase               |
+| Other      | Git Version Control, Heroku, Leaflet.js  | Google Maps API                                   | Flux                   |
 
 ## Education
 
