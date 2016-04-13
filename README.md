@@ -32,7 +32,7 @@ A technology enthusiast with a passion for creating new things. Recently finishe
 
 |            | Comfortable                              | Know                                              | Touched upon           |
 |:----------:| --------------------------------------   | ------------------------------------------------- | ---------------------- |
-| Languages  | Ruby, Javascript, HTML5, CSS3,           | jQuery                                            | Python                 |
+| Languages  | Ruby, Javascript, HTML5, CSS3,           | jQuery                                            | Python, PHP            |
 | Frameworks | Ruby-on-Rails, Sinatra, Meteor, Node.js  | Angular.js, Ionic, React, Express.js              | Backbone.js            |
 | Tests      | Rspec, Capybara, Jasmine                 | Protractor, Karma                                 | Factory Girl           |
 | Databases  | PostgreSQL                               | MongoDB, DataMapper                               | Firebase               |
@@ -51,7 +51,7 @@ Makers Academy is a 12 week full-time coding bootcamp.
   Makers Academy final projects, a 2-week project, working in teams of 4-5
   members.
 - Working to deadlines and being able to produce functional MVPs quickly that
-  can be built upon with ease.
+  can be built upon and maintained with ease.
 - Can work well in high-pressure situations with limited time windows.
  
 #### St. Peters School, York (2010 to 2015)
