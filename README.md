@@ -32,7 +32,7 @@ A technology enthusiast with a passion for creating new things. Recently finishe
 
 |            | Comfortable                              | Know                                              | Touched upon           |
 |:----------:| --------------------------------------   | ------------------------------------------------- | ---------------------- |
-| Languages  | Ruby, Javascript, HTML5, CSS3,           | jQuery                                            | Python, PHP            |
+| Languages  | Ruby, Javascript, HTML5, CSS3, jQuery    | PHP                                               | Python, Swift          |
 | Frameworks | Ruby-on-Rails, Sinatra, Meteor, Node.js  | Angular.js, Ionic, React, Express.js              | Backbone.js            |
 | Tests      | Rspec, Capybara, Jasmine                 | Protractor, Karma                                 | Factory Girl           |
 | Databases  | PostgreSQL                               | MongoDB, DataMapper                               | Firebase               |
