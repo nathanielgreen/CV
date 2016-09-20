@@ -17,6 +17,9 @@ A technology enthusiast with a passion for creating new things. Recently finishe
   built for the company ShowStar Entertainments, made to showcase various clubs
   and events owned by the company. It was built in close contact with the client
   with very specific design requests.
+- [RemoteMe](https://github.com/nathanielgreen/remoteme), a web app that allows
+  users to find, list, and rate areas in their city that are laptop-work
+  friendly.
 
 #### Fast and Passionate Learner
 
