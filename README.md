@@ -1,6 +1,7 @@
 ## Nathaniel Green
 
-A technology enthusiast with a passion for creating new things. Recently finished the Makers Academy coding course and currently looking for full-time employment as a junior web developer in London.
+A technology enthusiast with a passion for creating new things. Currently
+employed as an Associate Product Developer at ANDigital.
 
 ## Skills
 
@@ -33,13 +34,13 @@ A technology enthusiast with a passion for creating new things. Recently finishe
 
 #### Technologies and Languages
 
-|            | Comfortable                              | Know                                              | Touched upon           |
-|:----------:| --------------------------------------   | ------------------------------------------------- | ---------------------- |
-| Languages  | Ruby, Javascript, HTML5, CSS3, jQuery    | PHP                                               | Python, Swift          |
-| Frameworks | Ruby-on-Rails, Sinatra, Meteor, Node.js  | Angular.js, Ionic, React, Express.js              | Backbone.js            |
-| Tests      | Rspec, Capybara, Jasmine                 | Protractor, Karma                                 | Factory Girl           |
-| Databases  | PostgreSQL                               | MongoDB, DataMapper                               | Firebase               |
-| Other      | Git Version Control, Heroku, Leaflet.js  | Google Maps API                                   | Flux                   |
+|            | Comfortable                                                 | Know                           | Touched upon           |
+|:----------:| ----------------------------------------------------------- | ------------------------------ | ---------------------- |
+| Languages  | Ruby, Javascript, HTML5, CSS3, jQuery                       | PHP                            | Python, Swift          |
+| Frameworks | Ruby-on-Rails, Sinatra, Meteor, Node.js, React, Express.js  | Angular.js, Ionic,             | Backbone.js            |
+| Tests      | Rspec, Capybara, Jasmine, Enzyme, Nightwatch, Mocha, Chai   | Protractor, Karma              | Factory Girl           |
+| Databases  | PostgreSQL                                                  | MongoDB, DataMapper            | Firebase               |
+| Other      | Git, Heroku, Leaflet.js                                     | Google Maps API                | Flux                   |
 
 ## Education
 
@@ -75,7 +76,7 @@ Makers Academy is a 12 week full-time coding bootcamp.
 
 ## Contact
 
-- Email: ngreen2303@gmail.com
+- Email: n@ngreen.co
 - Github: http://github.com/nathanielgreen/
 - CV: http://github.com/nathanielgreen/CV/
 - Website: http://ngreen.co/
