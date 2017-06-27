@@ -66,13 +66,13 @@ employed as an Associate Product Developer at ANDigital.
     different stacks as well as informing them on what other tech is used at
     AND Digital
   - Writing reusable React components for them to start off with on the
-    front-end, and creating a re-usable AND Digital authentication component
+    front-end, and creating a re-usable AND Digital user authentication component
     on the back-end.
   - Teaching them about the AND Digital Development standards, such as the
     company's Github branching strategy, component design standards, and general
     workflows.
 
-## London Food Review (May 2017 - Present)
+## Freelance: London Food Review (May 2017 - Present)
 
 - **Role**: Freelance Web Developer
 - **Technology**: HTML5, CSS3, Javascript, Nginx
@@ -88,7 +88,7 @@ emphasis on documentation and best practice software development processes,
 whilst also being a learning process for the devs on what it takes to go from
 development to production.
 
-## Armistice (October 2016 - March 2017) 
+## Freelance: Armistice (October 2016 - March 2017) 
 
 - **Role**: Freelance Web Developer
 - **Technology**: HTML5, CSS3, Javascript, jQuery
@@ -101,7 +101,7 @@ and links on how/where to contact him.
 
 Still being maintained and updated when necessary.
 
-## Showstar Entertainments (January 2016 - April 2016)
+## Freelance: Showstar Entertainments (January 2016 - April 2016)
 
 - **Role**: Freelance Web Developer
 - **Technology**: Ruby, Sinatra, HTML, CSS
