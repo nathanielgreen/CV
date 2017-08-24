@@ -41,7 +41,7 @@ employed as an Associate Product Developer at ANDigital.
 | Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Capybara   | Protractor, Karma              | Factory Girl           |
 | Databases  | MongoDB, PostgreSQL                                         | DataMapper                     | Firebase               |
 | DevOps     | Docker, Nginx                                               | Rancher, Jenkins               |                        |
-| Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js             | Google Maps API                | Flux                   |
+| Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js, Wordpress  | Google Maps API                | Flux                   |
 
 # Work 
 
@@ -53,7 +53,7 @@ employed as an Associate Product Developer at ANDigital.
  
 - Worked on AND Digital's internal projects using front-end technolgoies such as
   React, Redux, Enzyme, Nightwatch.
-- Worked on client-side projects (TalkTalk) with technolgies such as Anuglar and
+- Worked on client-side projects (TalkTalk) with technolgies such as Angular and
   Protractor.
 - Got involved in the company's DevOps and learnt new skills (Docker, Jenkins,
   Rancher).
