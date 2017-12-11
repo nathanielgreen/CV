@@ -37,9 +37,9 @@ employed as an Associate Product Developer at ANDigital.
 |            | Comfortable                                                 | Know                           | Touched upon           |
 |:----------:| ----------------------------------------------------------- | ------------------------------ | ---------------------- |
 | Languages  | Javascript, HTML5, CSS3, Ruby, jQuery                       | PHP                            | Python, Swift          |
-| Frameworks | React, Node, Express, Ruby-on-Rails, Sinatra, Meteor        | Angular, Ionic,                | Backbone               |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Capybara   | Protractor, Karma              | Factory Girl           |
-| Databases  | MongoDB, PostgreSQL                                         | DataMapper                     | Firebase               |
+| Frameworks | React, Redux, Node, Express, Ruby-on-Rails, Sinatra, Bulma  | Angular, Ionic, Meteor         |                        |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest       | Protractor, Karma, Capybara    |                        |
+| Databases  | MongoDB, PostgreSQL, Firebase                               | MySQL                          |                        |
 | DevOps     | Docker, Nginx                                               | Rancher, Jenkins               |                        |
 | Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js, Wordpress  | Google Maps API                | Flux                   |
 
@@ -75,7 +75,7 @@ employed as an Associate Product Developer at ANDigital.
 ## Freelance: London Food Review (May 2017 - Present)
 
 - **Role**: Freelance Web Developer
-- **Technology**: HTML5, CSS3, Javascript, Nginx
+- **Technology**: HTML5, CSS3, Javascript, Vue, Firebase
 - **Repository**: Currently Private.
 - **Website**: http://londonfoodreview.com
 
