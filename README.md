@@ -1,7 +1,8 @@
 # Nathaniel Green
 
 A technology enthusiast with a passion for creating new things. Currently
-employed as an Associate Product Developer at ANDigital.
+Currently looking for full-time employment as a Junior Web Developer in Berlin,
+DE..
 
 # Skills
 
@@ -45,7 +46,7 @@ employed as an Associate Product Developer at ANDigital.
 
 # Work 
 
-## AND Digital (February 2017 to Present)
+## AND Digital (February 2017 to February 2018)
 
 **Role**: Associate Product Developer
 
