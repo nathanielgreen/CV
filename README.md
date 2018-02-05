@@ -1,8 +1,8 @@
 # Nathaniel Green
 
-A technology enthusiast with a passion for creating new things. Currently
-Currently looking for full-time employment as a Junior Web Developer in Berlin,
-DE..
+A technology enthusiast with a passion for creating new things. Currently 
+looking for full-time employment as a Junior Web Developer in Berlin,
+DE.
 
 # Skills
 
@@ -35,14 +35,14 @@ DE..
 
 ## Technologies and Languages
 
-|            | Comfortable                                                 | Know                           | Touched upon           |
-|:----------:| ----------------------------------------------------------- | ------------------------------ | ---------------------- |
-| Languages  | Javascript, HTML5, CSS3, Ruby, jQuery                       | PHP                            | Python, Swift          |
-| Frameworks | React, Redux, Node, Express, Ruby-on-Rails, Sinatra, Bulma  | Angular, Ionic, Meteor         |                        |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest       | Protractor, Karma, Capybara    |                        |
-| Databases  | MongoDB, PostgreSQL, Firebase                               | MySQL                          |                        |
-| DevOps     | Docker, Nginx                                               | Rancher, Jenkins               |                        |
-| Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js, Wordpress  | Google Maps API                | Flux                   |
+|            | Comfortable                                                     | Know                           | Touched upon           |
+|:----------:| --------------------------------------------------------------- | ------------------------------ | ---------------------- |
+| Languages  | Javascript, HTML5, CSS3, Ruby, jQuery                           | PHP                            | Python, Swift          |
+| Frameworks | React, Redux, Node, Express, Ruby-on-Rails, Vue, Sinatra, Bulma | Angular, Ionic, Meteor         |                        |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest           | Protractor, Karma, Capybara    |                        |
+| Databases  | MongoDB, PostgreSQL, Firebase                                   | MySQL                          |                        |
+| DevOps     | Docker, Nginx                                                   | Rancher, Jenkins               |                        |
+| Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js, Wordpress      | Google Maps API                | Flux                   |
 
 # Work 
 
