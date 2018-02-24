@@ -38,14 +38,18 @@ DE.
 Some of my favourite tech at the moment:
 `Nuxt.js` `Vue.js` `Vuex` `SASS` `CSS Grid` `Firebase` `Cypress` `GraphQL` 
 
-|            | Comfortable                                                         | Know                           |
-|:----------:| ------------------------------------------------------------------- | ------------------------------ |
-| Languages  | Javascript, HTML5, CSS3, Ruby, jQuery                               | PHP                            |
-| Frameworks | React+Redux, Node, Express, Ruby-on-Rails, Vue+Vuex, Sinatra, Bulma | Nuxt, Angular, Ionic, Meteor   |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest               | Protractor, Karma, Capybara    |
-| Databases  | MongoDB, PostgreSQL, Firebase                                       | MySQL, GraphQL                 |
-| DevOps     | Docker, Nginx, Codeship                                             | Rancher, Jenkins               |
-| Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js, Wordpress          | Google Maps API                |
+
+The rest of the tech I've used before:
+
+|            | Tech                                                                                       |
+|:----------:| ------------------------------------------------------------------------------------------ | 
+| Languages  | Javascript, HTML5, CSS3, Ruby, PHP                                                         |
+| Frameworks | React+Redux, Node, Express, Ruby-on-Rails, Vue+Vuex, Sinatra, Nuxt, Angular, Ionic, Meteor |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Capybara         |
+| Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL                                              |
+| DevOps     | Docker, Nginx, Codeship, Rancher, Jenkins                                                  |
+| Other      | Git, Webpack, Digital Ocean, Heroku, Wordpress                                             |
+| APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                           |
 
 # Work 
 
@@ -75,7 +79,6 @@ Some of my favourite tech at the moment:
   - Teaching them about the AND Digital Development standards, such as the
     company's Github branching strategy, component design standards, and general
     workflows.
-- 
 
 ## Freelance: London Food Review (May 2017 - Present)
 
