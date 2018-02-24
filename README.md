@@ -8,26 +8,26 @@ DE.
 
 ## Web Development
 
-- [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND), an ongoing personal
+- [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND): an ongoing personal
   project of mine; UNDRGRND is social network for the underground music scene.
   Built for me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
   and Firebase.
-- [Ushare](https://github.com/nathanielgreen/Ushare), my final project at
+- [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
   sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
   into the Uber API.
-- [Ravebot](https://github.com/nathanielgreen/ravebot), a social playlist curation
+- [Ravebot](https://github.com/nathanielgreen/ravebot): a social playlist curation
   app built for iOS and Android using the Ionic Framework and Rails for the
   back end.
-- [RemoteMe](https://github.com/nathanielgreen/remoteme), a web app that allows
+- [RemoteMe](https://github.com/nathanielgreen/remoteme): a web app that allows
   users to find, list, and rate areas in their city that are laptop-work
   friendly.
 
 ## Fast and Passionate Learner
 
-- Grasped a good understanding of multiple languages and different technologies in a short space of time
-  through self-taught learning and using online resources, as well as Makers
-  Academy resources.
+- Grasped a good understanding of multiple languages and different technologies 
+  in a short space of time through self-taught learning and using online resources, 
+  as well as Makers Academy resources.
 - Having a strong interest in SPAs and optimization influenced my decision
   to learn [Nuxt.js](https://nuxtjs.org/), a powerful Vue.js framework that
   allows you to develop Server Side Rendered Vue.js web and progressive web
@@ -59,10 +59,11 @@ The rest of the tech I've used before:
 
 **Company Website**: http://and.digital
  
-- Worked on the Website Refresh Project, a complete overhaul of the public
-  facing AND Digital Website to match to the new brand designs.
-    - Adhering to strict accessibility and styleguide rules.
-    - Building the CMS capabilities for the marketing team using Wordpress.
+- Worked on the AND Digital Website Refresh Project, a complete overhaul of 
+  [the company's public facing website](http://and.digital) to match the latest 
+  company rebrand.
+    - Adhering to strict styleguide and accessibility rules.
+    - Building CMS capabilities for the marketing team using Wordpress & PHP.
 - Worked on AND Digital's internal projects/applications using front-end 
   technolgoies such as React, Redux, Enzyme, Nightwatch.
 - Worked on client-side projects (TalkTalk) with technologies such as Angular and
@@ -87,12 +88,13 @@ The rest of the tech I've used before:
 ## Freelance: London Food Review (May 2017 - Present)
 
 - **Role**: Freelance Web Developer
-- **Technology**: HTML5, CSS3, Javascript, Vue/Vuex, Firebase
+- **Technology**: HTML5, CSS3, Javascript, Vue/Vuex, Firebase, Google Maps API,
+  Youtube API
 - **Repository**: Currently Private.
 - **Website**: http://londonfoodreview.com
 
-Website currently still in development for London Food Review, built in free
-time to showcase the company's videos, as well as host other content, such as 
+Website currently still in development for London Food Review, built 
+to showcase the company's videos, as well as host other content, such as 
 contact details and useful information.
 
 Project is being built with an
