@@ -8,6 +8,10 @@ DE.
 
 ## Web Development
 
+- [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND), an ongoing personal
+  project of mine; UNDRGRND is social network for the underground music scene.
+  Built for me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
+  and Firebase.
 - [Ushare](https://github.com/nathanielgreen/Ushare), my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
   sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
@@ -15,10 +19,6 @@ DE.
 - [Ravebot](https://github.com/nathanielgreen/ravebot), a social playlist curation
   app built for iOS and Android using the Ionic Framework and Rails for the
   back end.
-- [Show Star Website](https://github.com/nathanielgreen/showstar), A website
-  built for the company ShowStar Entertainments, made to showcase various clubs
-  and events owned by the company. It was built in close contact with the client
-  with very specific design requests.
 - [RemoteMe](https://github.com/nathanielgreen/remoteme), a web app that allows
   users to find, list, and rate areas in their city that are laptop-work
   friendly.
@@ -28,21 +28,24 @@ DE.
 - Grasped a good understanding of multiple languages and different technologies in a short space of time
   through self-taught learning and using online resources, as well as Makers
   Academy resources.
-- Having a strong interest in current mobile technology influenced my decision
-  to learn [Meteor](http://meteor.com/), a powerful Javascript framework that
-  can create phone apps quickly and easily and has been the basis for multiple
-  personal projects of mine.
+- Having a strong interest in SPAs and optimization influenced my decision
+  to learn [Nuxt.js](https://nuxtjs.org/), a powerful Vue.js framework that
+  allows you to develop Server Side Rendered Vue.js web and progressive web
+  applications..
 
 ## Technologies and Languages
 
-|            | Comfortable                                                     | Know                           | Touched upon           |
-|:----------:| --------------------------------------------------------------- | ------------------------------ | ---------------------- |
-| Languages  | Javascript, HTML5, CSS3, Ruby, jQuery                           | PHP                            | Python, Swift          |
-| Frameworks | React, Redux, Node, Express, Ruby-on-Rails, Vue, Sinatra, Bulma | Angular, Ionic, Meteor         |                        |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest           | Protractor, Karma, Capybara    |                        |
-| Databases  | MongoDB, PostgreSQL, Firebase                                   | MySQL                          |                        |
-| DevOps     | Docker, Nginx                                                   | Rancher, Jenkins               |                        |
-| Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js, Wordpress      | Google Maps API                | Flux                   |
+Some of my favourite tech at the moment:
+`Nuxt.js` `Vue.js` `Vuex` `SASS` `CSS Grid` `Firebase` `Cypress` `GraphQL` 
+
+|            | Comfortable                                                         | Know                           |
+|:----------:| ------------------------------------------------------------------- | ------------------------------ |
+| Languages  | Javascript, HTML5, CSS3, Ruby, jQuery                               | PHP                            |
+| Frameworks | React+Redux, Node, Express, Ruby-on-Rails, Vue+Vuex, Sinatra, Bulma | Nuxt, Angular, Ionic, Meteor   |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest               | Protractor, Karma, Capybara    |
+| Databases  | MongoDB, PostgreSQL, Firebase                                       | MySQL, GraphQL                 |
+| DevOps     | Docker, Nginx, Codeship                                             | Rancher, Jenkins               |
+| Other      | Git, Webpack, Digital Ocean, Heroku, Leaflet.js, Wordpress          | Google Maps API                |
 
 # Work 
 
@@ -54,7 +57,7 @@ DE.
  
 - Worked on AND Digital's internal projects using front-end technolgoies such as
   React, Redux, Enzyme, Nightwatch.
-- Worked on client-side projects (TalkTalk) with technolgies such as Angular and
+- Worked on client-side projects (TalkTalk) with technologies such as Angular and
   Protractor.
 - Got involved in the company's DevOps and learnt new skills (Docker, Jenkins,
   Rancher).
@@ -72,11 +75,12 @@ DE.
   - Teaching them about the AND Digital Development standards, such as the
     company's Github branching strategy, component design standards, and general
     workflows.
+- 
 
 ## Freelance: London Food Review (May 2017 - Present)
 
 - **Role**: Freelance Web Developer
-- **Technology**: HTML5, CSS3, Javascript, Vue, Firebase
+- **Technology**: HTML5, CSS3, Javascript, Vue/Vuex, Firebase
 - **Repository**: Currently Private.
 - **Website**: http://londonfoodreview.com
 
@@ -84,9 +88,9 @@ Website currently still in development for London Food Review, built in free
 time to showcase the company's videos, as well as host other content, such as 
 contact details and useful information.
 
-Project is being  built with [Claudia Green](https://github.com/claudiagreen) with an
+Project is being built with an
 emphasis on documentation and best practice software development processes,
-whilst also being a learning process for the devs on what it takes to go from
+whilst also being a learning process on what it takes to go from
 development to production.
 
 ## Freelance: Armistice (October 2016 - March 2017) 
