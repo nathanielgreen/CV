@@ -41,7 +41,7 @@ Some of my favourite tech at the moment:
 
 The rest of the tech I've used before:
 
-|            | Tech                                                                                       |
+| Category   | Tech                                                                                       |
 |:----------:| ------------------------------------------------------------------------------------------ | 
 | Languages  | Javascript, HTML5, CSS3, Ruby, PHP                                                         |
 | Frameworks | React+Redux, Node, Express, Ruby-on-Rails, Vue+Vuex, Sinatra, Nuxt, Angular, Ionic, Meteor |
@@ -59,8 +59,12 @@ The rest of the tech I've used before:
 
 **Company Website**: http://and.digital
  
-- Worked on AND Digital's internal projects using front-end technolgoies such as
-  React, Redux, Enzyme, Nightwatch.
+- Worked on the Website Refresh Project, a complete overhaul of the public
+  facing AND Digital Website to match to the new brand designs.
+    - Adhering to strict accessibility and styleguide rules.
+    - Building the CMS capabilities for the marketing team using Wordpress.
+- Worked on AND Digital's internal projects/applications using front-end 
+  technolgoies such as React, Redux, Enzyme, Nightwatch.
 - Worked on client-side projects (TalkTalk) with technologies such as Angular and
   Protractor.
 - Got involved in the company's DevOps and learnt new skills (Docker, Jenkins,
