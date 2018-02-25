@@ -2,7 +2,7 @@
 
 A technology enthusiast with a passion for creating new things. Currently 
 looking for full-time employment as a Junior Web Developer in Berlin,
-DE. Previously working as an Associate Product Developer at AND Digital.
+DE. Previously employed as an Associate Product Developer at AND Digital.
 
 # Skills
 
