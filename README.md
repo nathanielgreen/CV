@@ -2,7 +2,7 @@
 
 A technology enthusiast with a passion for creating new things. Currently 
 looking for full-time employment as a Junior Web Developer in Berlin,
-DE.
+DE. Previously working as an Associate Product Developer at AND Digital.
 
 # Skills
 
@@ -10,7 +10,7 @@ DE.
 
 - [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND): an ongoing personal
   project of mine; UNDRGRND is social network for the underground music scene.
-  Built for me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
+  Built to enable me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
   and Firebase.
 - [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
@@ -25,9 +25,10 @@ DE.
 
 ## Fast and Passionate Learner
 
-- Grasped a good understanding of multiple languages and different technologies 
+- Whilst attending Makers Academy web development bootcamp, I grasped a good 
+  understanding of multiple languages and different technologies 
   in a short space of time through self-taught learning and using online resources, 
-  as well as Makers Academy resources.
+  as well as the bootcamps resources.
 - Having a strong interest in SPAs and optimization influenced my decision
   to learn [Nuxt.js](https://nuxtjs.org/), a powerful Vue.js framework that
   allows you to develop Server Side Rendered Vue.js web and progressive web
@@ -59,6 +60,8 @@ The rest of the tech I've used before:
 
 **Company Website**: http://and.digital
  
+- Worked on client-side projects (TalkTalk) with technologies such as Angular and
+  Protractor.
 - Worked on the AND Digital Website Refresh Project, a complete overhaul of 
   [the company's public facing website](http://and.digital) to match the latest 
   company rebrand.
@@ -66,8 +69,6 @@ The rest of the tech I've used before:
     - Building CMS capabilities for the marketing team using Wordpress & PHP.
 - Worked on AND Digital's internal projects/applications using front-end 
   technolgoies such as React, Redux, Enzyme, Nightwatch.
-- Worked on client-side projects (TalkTalk) with technologies such as Angular and
-  Protractor.
 - Got involved in the company's DevOps and learnt new skills (Docker, Jenkins,
   Rancher).
 - Aided in UI/UX discovery sprint for an internal project where I and 3 others
@@ -76,7 +77,7 @@ The rest of the tech I've used before:
 - Helped set up base foundations for a brand new internal project, that the
   bootcamp joining the company in May could build on on top. This involved:
   - Helping them decide on a tech stack, weighing up the pros and cons of
-    different stacks as well as informing them on what other tech is used at
+    different stacks as well as informing them about other tech that is used at
     AND Digital
   - Writing reusable React components for them to start off with on the
     front-end, and creating a re-usable AND Digital user authentication component
