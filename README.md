@@ -60,8 +60,8 @@ The rest of the tech I've used before:
 
 **Company Website**: http://and.digital
  
-- Worked on client-side projects (TalkTalk) with technologies such as Angular and
-  Protractor.
+- Deployed to client site (TalkTalk) to work on client-side projects with 
+  technologies such as Angular and Protractor.
 - Worked on the AND Digital Website Refresh Project, a complete overhaul of 
   [the company's public facing website](http://and.digital) to match the latest 
   company rebrand.
