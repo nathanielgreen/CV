@@ -75,7 +75,7 @@ The rest of the tech I've used before:
   worked to create ideas and basis for wireframes on how the internal project 
   should look, and what sort of user journeys should be created.
 - Helped set up base foundations for a brand new internal project, that the
-  bootcamp joining the company in May could build on on top. This involved:
+  bootcamp joining the company in May could build on top of. This involved:
   - Helping them decide on a tech stack, weighing up the pros and cons of
     different stacks as well as informing them about other tech that is used at
     AND Digital
