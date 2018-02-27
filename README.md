@@ -11,7 +11,7 @@ DE. Previously employed as an Associate Product Developer at AND Digital.
 - [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND): an ongoing personal
   project of mine; UNDRGRND is social network for the underground music scene.
   Built to enable me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
-  and Firebase.
+  and GraphQL.
 - [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
   sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
@@ -37,7 +37,7 @@ DE. Previously employed as an Associate Product Developer at AND Digital.
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
-`Nuxt.js` `Vue.js` `Vuex` `SASS` `CSS Grid` `Firebase` `Cypress` `GraphQL` 
+`Nuxt.js` `Vue.js` `Vuex` `SASS` `CSS Grid` `Firebase` `GraphQL` `Apollo`
 
 
 The rest of the tech I've used before:
@@ -46,7 +46,7 @@ The rest of the tech I've used before:
 |:----------:| ------------------------------------------------------------------------------------------ | 
 | Languages  | Javascript, HTML5, CSS3, Ruby, PHP                                                         |
 | Frameworks | React+Redux, Node, Express, Ruby-on-Rails, Vue+Vuex, Sinatra, Nuxt, Angular, Ionic, Meteor |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Capybara         |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress          |
 | Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL                                              |
 | DevOps     | Docker, Nginx, Codeship, Rancher, Jenkins                                                  |
 | Other      | Git, Webpack, Digital Ocean, Heroku, Wordpress                                             |
