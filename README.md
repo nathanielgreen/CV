@@ -12,8 +12,8 @@ DE. Previously employed as an Associate Product Developer at AND Digital.
   project of mine; UNDRGRND is social network for the underground music scene.
   Built to enable me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
   and GraphQL.
-- [Bullet Journal](https://github.com/nathanielgreen/bulletjournal): the analog
-  The analog organization system [Bullet Journal](http://bulletjournal.com/) in
+- [Bullet Journal](https://github.com/nathanielgreen/bulletjournal): the analog 
+  organization system [Bullet Journal](http://bulletjournal.com/) in
   the form of a PWA. Built using Nuxt.js + Vue.js.
 - [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
