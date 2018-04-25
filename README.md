@@ -89,7 +89,7 @@ The rest of the tech I've used before:
 ## Freelance: London Food Review (May 2017 - Present)
 
 - **Role**: Freelance Web Developer
-- **Technology**: HTML5, CSS3, Javascript, Vue/Vuex, Firebase, Google Maps API,
+- **Technology**: HTML5, CSS3, Javascript, Nuxt, Vue/Vuex, Netlify CMS, Google Maps API,
   Youtube API
 - **Repository**: Currently Private.
 - **Website**: http://londonfoodreview.com
