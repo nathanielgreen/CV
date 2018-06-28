@@ -1,8 +1,8 @@
 # Nathaniel Green
 
 A technology enthusiast with a passion for creating new things. Currently 
-looking for full-time employment as a Junior Web Developer in Berlin,
-DE. Previously employed as an Associate Product Developer at AND Digital.
+looking for full-time employment as a Junior Web Developer in London,
+UK. Previously employed as an Associate Product Developer at AND Digital.
 
 # Skills
 
