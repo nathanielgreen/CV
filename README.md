@@ -37,7 +37,7 @@ UK. Previously employed as an Associate Product Developer at AND Digital.
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
-`Nuxt.js` `Vue.js` `Vuex` `SASS` `CSS Grid` `Firebase` `GraphQL` `Apollo`
+`Nuxt.js` `Vue.js` `Vuex` `SASS` `CSS Grid`  `GraphQL` `Apollo`
 
 
 The rest of the tech I've used before:
@@ -85,23 +85,6 @@ The rest of the tech I've used before:
   - Teaching them about the AND Digital Development standards, such as the
     company's Github branching strategy, component design standards, and general
     workflows.
-
-## Freelance: London Food Review (May 2017 - Present)
-
-- **Role**: Freelance Web Developer
-- **Technology**: HTML5, CSS3, Javascript, Nuxt, Vue/Vuex, Netlify CMS, Google Maps API,
-  Youtube API
-- **Repository**: Currently Private.
-- **Website**: http://londonfoodreview.com
-
-Website currently still in development for London Food Review, built 
-to showcase the company's videos, as well as host other content, such as 
-contact details and useful information.
-
-Project is being built with an
-emphasis on documentation and best practice software development processes,
-whilst also being a learning process on what it takes to go from
-development to production.
 
 ## Freelance: Armistice (October 2016 - March 2017) 
 
