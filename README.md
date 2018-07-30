@@ -1,8 +1,8 @@
 # Nathaniel Green
 
 A technology enthusiast with a passion for creating new things. Currently 
-looking for full-time employment as a Junior Web Developer in London,
-UK. Previously employed as an Associate Product Developer at AND Digital.
+as a Software Engineer at Veratrak in London, UK. Previously employed as an 
+Associate Product Developer at AND Digital.
 
 # Skills
 
@@ -53,6 +53,12 @@ The rest of the tech I've used before:
 | APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                           |
 
 # Work 
+
+## Veratrak (July 2018 to Present)
+
+**Role**: Software Engineer
+
+**Company Website**: https://veratrak.com/
 
 ## AND Digital (February 2017 to February 2018)
 
