@@ -37,19 +37,18 @@ Associate Product Developer at AND Digital.
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
-`Nuxt.js` `Vue.js` `Vuex` `SASS` `CSS Grid`  `GraphQL` `Apollo`
-
+`Nuxt.js` `Vue.js` `CSS Grid`  `GraphQL` `Elixir`
 
 The rest of the tech I've used before:
 
 | Category   | Tech                                                                                       |
 |:----------:| ------------------------------------------------------------------------------------------ | 
-| Languages  | Javascript, HTML5, CSS3, Ruby, PHP                                                         |
-| Frameworks | React+Redux, Node, Express, Ruby-on-Rails, Vue+Vuex, Sinatra, Nuxt, Angular, Ionic, Meteor |
+| Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Solidity                                            |
+| Frameworks | React+Redux, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor|
 | Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress          |
 | Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL                                              |
-| DevOps     | Docker, Nginx, Codeship, Rancher, Jenkins                                                  |
-| Other      | Git, Webpack, Digital Ocean, Heroku, Wordpress                                             |
+| DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                   |
+| Other      | Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                               |
 | APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                           |
 
 # Work 
@@ -59,6 +58,10 @@ The rest of the tech I've used before:
 **Role**: Software Engineer
 
 **Company Website**: https://veratrak.com/
+
+Veratrak is the next generation solution for storing, protecting, and
+collaborating on critical documentation in the pharmaceutical supply chain.
+We use blockchain technology to ensure the security of documentation handovers.
 
 ## AND Digital (February 2017 to February 2018)
 
@@ -154,6 +157,7 @@ Makers Academy is a 12 week full-time coding bootcamp.
 # Contact
 
 - Email: n@ngreen.io
-- Github: http://github.com/nathanielgreen
-- CV: http://github.com/nathanielgreen/CV
+- Github: https://github.com/nathanielgreen
+- Gitlab: https://gitlab.com/nathanielgreen
+- CV: https://github.com/nathanielgreen/CV
 - Website: http://ngreen.io
