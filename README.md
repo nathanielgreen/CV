@@ -44,7 +44,7 @@ The rest of the tech I've used before:
 | Category   | Tech                                                                                       |
 |:----------:| ------------------------------------------------------------------------------------------ | 
 | Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Solidity                                            |
-| Frameworks | React+Redux, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor|
+| Frameworks | React+Redux, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor        |
 | Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress          |
 | Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL                                              |
 | DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                   |
@@ -56,6 +56,8 @@ The rest of the tech I've used before:
 ## Veratrak (July 2018 to Present)
 
 **Role**: Software Engineer
+
+**Technology**: Angular 5/6, Nest.js, AWS
 
 **Company Website**: https://veratrak.com/
 
