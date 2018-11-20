@@ -1,8 +1,9 @@
 # Nathaniel Green
 
 A technology enthusiast with a passion for creating new things. Currently 
-as a Software Engineer at Veratrak in London, UK. Previously employed as an 
-Associate Product Developer at AND Digital.
+working as a Software Engineer at [Veratrak](https://veratrak.com/) in London, UK.
+Previously employed as an Associate Product Developer at
+[AND Digital](https://and.digital/).
 
 # Skills
 
@@ -13,7 +14,7 @@ Associate Product Developer at AND Digital.
   analog organization system [Bullet Journal](http://bulletjournal.com/) in
   the digital form of a PWA.
 - [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND): an ongoing personal
-  project of mine; UNDRGRND is social network for the underground music scene.
+  project of mine; UNDRGRND is a social network for the underground music scene.
   Built to enable me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
   and GraphQL.
 - [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
