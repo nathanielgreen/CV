@@ -8,13 +8,14 @@ Associate Product Developer at AND Digital.
 
 ## Web Development
 
+- [Bullet Buddy](https://github.com/nathanielgreen/bulletbuddy): A PWA
+  (Progressive Web App) built with Vue.js+Vuex and PouchDB. The app presents the
+  analog organization system [Bullet Journal](http://bulletjournal.com/) in
+  the digital form of a PWA.
 - [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND): an ongoing personal
   project of mine; UNDRGRND is social network for the underground music scene.
   Built to enable me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
   and GraphQL.
-- [Bullet Journal](https://github.com/nathanielgreen/bulletjournal): the analog 
-  organization system [Bullet Journal](http://bulletjournal.com/) in
-  the form of a PWA. Built using Nuxt.js + Vue.js.
 - [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
   sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
@@ -46,7 +47,7 @@ The rest of the tech I've used before:
 | Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Solidity                                            |
 | Frameworks | React+Redux, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor        |
 | Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress          |
-| Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL                                              |
+| Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                             |
 | DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                   |
 | Other      | Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                               |
 | APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                           |
@@ -57,7 +58,7 @@ The rest of the tech I've used before:
 
 **Role**: Software Engineer
 
-**Technology**: Angular 5/6, Nest.js, AWS
+**Technology**: Angular 5/6, Typescript, Nest.js, AWS
 
 **Company Website**: https://veratrak.com/
 
