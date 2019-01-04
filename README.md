@@ -1,9 +1,10 @@
 # Nathaniel Green
 
 A technology enthusiast with a passion for creating new things. Currently 
-working as a Software Engineer at [Veratrak](https://veratrak.com/) in London, UK.
-Previously employed as an Associate Product Developer at
-[AND Digital](https://and.digital/).
+Current available for full-time employment as a Full-stack Developer, in London
+UK.
+Previously employed as a Software Engineer at [Veratrak](https://veratrak.com/),
+and Associate Product Developer at [AND Digital](https://and.digital/).
 
 # Skills
 
@@ -39,13 +40,13 @@ Previously employed as an Associate Product Developer at
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
-`Nuxt.js` `Vue.js` `CSS Grid`  `GraphQL` `Elixir`
+`Nuxt.js` `Vue.js` `CSS Grid` `PWA` `Rust` `Web Assembly`
 
 The rest of the tech I've used before:
 
 | Category   | Tech                                                                                       |
 |:----------:| ------------------------------------------------------------------------------------------ | 
-| Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Solidity                                            |
+| Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Rust, Solidity                                      |
 | Frameworks | React+Redux, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor        |
 | Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress          |
 | Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                             |
@@ -55,11 +56,11 @@ The rest of the tech I've used before:
 
 # Work 
 
-## Veratrak (July 2018 to Present)
+## Veratrak (July 2018 to January 2019)
 
 **Role**: Software Engineer
 
-**Technology**: Angular 5/6, Typescript, Nest.js, AWS
+**Technology**: Angular 5/6, Typescript, Nest.js, AWS, Solidity, Smart Contracts
 
 **Company Website**: https://veratrak.com/
 
@@ -67,9 +68,19 @@ Veratrak is the next generation solution for storing, protecting, and
 collaborating on critical documentation in the pharmaceutical supply chain.
 We use blockchain technology to ensure the security of documentation handovers.
 
+- Created a Smart Contract for use in our product using the 
+  [Truffle Suite](https://www.truffleframework.com/) (Truffle, Ganache, Drizzle).
+- Writing performant and accessible front-end applications for use in enterprise
+  environments, with multi-browser and browser version suppor, tested with
+  Browser Stack.
+- Created responsive and interactive UI designs used by the product in design
+  tool [Figma](https://www.figma.com).
+
 ## AND Digital (February 2017 to February 2018)
 
 **Role**: Associate Product Developer
+
+**Technology**: React+Redux, Node, Angular 1.6+, Wordpress, PHP, Docker+Jenkins+Rancher
 
 **Company Website**: http://and.digital
  
