@@ -1,7 +1,7 @@
 # Nathaniel Green
 
 A technology enthusiast with a passion for creating new things. Currently 
-Current available for full-time employment as a Full-stack Developer, in London
+available for full-time employment as a Full-stack Developer, in London
 UK.
 Previously employed as a Software Engineer at [Veratrak](https://veratrak.com/),
 and Associate Product Developer at [AND Digital](https://and.digital/).
@@ -35,7 +35,7 @@ and Associate Product Developer at [AND Digital](https://and.digital/).
 - Having a strong interest in SPAs and optimization influenced my decision
   to learn [Nuxt.js](https://nuxtjs.org/), a powerful Vue.js framework that
   allows you to develop Server Side Rendered Vue.js web and progressive web
-  applications..
+  applications.
 
 ## Technologies and Languages
 
@@ -175,4 +175,4 @@ Makers Academy is a 12 week full-time coding bootcamp.
 - Github: https://github.com/nathanielgreen
 - Gitlab: https://gitlab.com/nathanielgreen
 - CV: https://github.com/nathanielgreen/CV
-- Website: http://ngreen.io
+- Website: https://ngreen.io
