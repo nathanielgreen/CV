@@ -70,8 +70,8 @@ We use blockchain technology to ensure the security of documentation handovers.
 
 - Created a Smart Contract for use in our product using the 
   [Truffle Suite](https://www.truffleframework.com/) (Truffle, Ganache, Drizzle).
-- Writing performant and accessible front-end applications for use in enterprise
-  environments, with multi-browser and browser version suppor, tested with
+- Worked on writing performant and accessible front-end applications for use in enterprise
+  environments, with multi-browser and browser version support, tested with
   Browser Stack.
 - Created responsive and interactive UI designs used by the product in design
   tool [Figma](https://www.figma.com).
