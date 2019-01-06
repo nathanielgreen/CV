@@ -28,19 +28,19 @@ and Associate Product Developer at [AND Digital](https://and.digital/).
 
 ## Fast and Passionate Learner
 
-- Whilst attending Makers Academy web development bootcamp, I grasped a good 
-  understanding of multiple languages and different technologies 
-  in a short space of time through self-taught learning and using online resources, 
-  as well as the bootcamps resources.
 - Having a strong interest in SPAs and optimization influenced my decision
   to learn [Nuxt.js](https://nuxtjs.org/), a powerful Vue.js framework that
   allows you to develop Server Side Rendered Vue.js web and progressive web
   applications.
+- Whilst attending Makers Academy web development bootcamp, I grasped a good 
+  understanding of multiple languages and different technologies 
+  in a short space of time through self-taught learning and using online resources, 
+  as well as the bootcamps resources.
 
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
-`Nuxt.js` `Vue.js` `CSS Grid` `PWA` `Rust` `Web Assembly`
+`Nuxt.js` `Vue.js` `CSS Grid` `PWA` `Elixir` `Rust` `Web Assembly`
 
 The rest of the tech I've used before:
 
@@ -70,9 +70,9 @@ We use blockchain technology to ensure the security of documentation handovers.
 
 - Created a Smart Contract for use in our product using the 
   [Truffle Suite](https://www.truffleframework.com/) (Truffle, Ganache, Drizzle).
-- Worked on writing performant and accessible front-end applications for use in enterprise
-  environments, with multi-browser and browser version support, tested with
-  Browser Stack.
+- Worked on writing performant and accessible front-end applications in Angular 5/6 
+  for use in enterprise environments, with multi-browser and browser version 
+  support, tested with Browser Stack.
 - Created responsive and interactive UI designs used by the product in design
   tool [Figma](https://www.figma.com).
 
@@ -121,8 +121,6 @@ Worked closely with DJ/Producer Armistice during free time to design and build
 website to showcase Armisitice's music, as well as host information about the DJ
 and links on how/where to contact him.
 
-Still being maintained and updated when necessary.
-
 ## Freelance: Showstar Entertainments (January 2016 - April 2016)
 
 - **Role**: Freelance Web Developer
@@ -133,8 +131,6 @@ Still being maintained and updated when necessary.
 Built a website for the company ShowStar Entertainments, to showcase various
 clubs and events owned by Showstar Entertainments. The website was also built in
 close contact with the client to specific design requests.
-
-Still being maintained and updated when necessary.
 
 # Education
 
