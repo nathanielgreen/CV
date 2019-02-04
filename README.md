@@ -115,7 +115,6 @@ We use blockchain technology to ensure the security of documentation handovers.
 - **Role**: Freelance Web Developer
 - **Technology**: HTML5, CSS3, Javascript, jQuery
 - **Repository**: http://github.com/nathanielgreen/armistice
-- **Website**: http://armistice.co/
 
 Worked closely with DJ/Producer Armistice during free time to design and build
 website to showcase Armisitice's music, as well as host information about the DJ
@@ -126,7 +125,7 @@ and links on how/where to contact him.
 - **Role**: Freelance Web Developer
 - **Technology**: Ruby, Sinatra, HTML, CSS
 - **Repository**: http://github.com/nathanielgreen/showstar
-- **Website**: http://showstarents.co.uk
+- **Website**: http://www.showstarents.co.uk
 
 Built a website for the company ShowStar Entertainments, to showcase various
 clubs and events owned by Showstar Entertainments. The website was also built in
