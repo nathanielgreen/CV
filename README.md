@@ -51,7 +51,7 @@ The rest of the tech I've used before:
 | Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress          |
 | Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                             |
 | DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                   |
-| Other      | Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                               |
+| Other      | TensorFlow, Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                   |
 | APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                           |
 
 # Work 
@@ -60,7 +60,7 @@ The rest of the tech I've used before:
 
 **Role**: Software Engineer
 
-**Technology**: Angular 5/6, Typescript, Nest.js, AWS, Solidity, Smart Contracts
+**Technology**: Angular 5/6, Typescript, Nest.js, AWS, Docker, Solidity, Smart Contracts
 
 **Company Website**: https://veratrak.com/
 
@@ -80,10 +80,12 @@ We use blockchain technology to ensure the security of documentation handovers.
 
 **Role**: Associate Product Developer
 
-**Technology**: React+Redux, Node, Angular 1.6+, Wordpress, PHP, Docker+Jenkins+Rancher
+**Technology**: React+Redux, Node, Angular 1.6+, TensorFlow, Vue, Wordpress/PHP, Docker ,Jenkins, Rancher
 
 **Company Website**: http://and.digital
  
+- Created a chatbot using Vue and TensorFlow for use on the main AND Digital
+  [public facing website](https://and.digital).
 - Deployed to client site (TalkTalk) to work on client-side projects with 
   technologies such as Angular and Protractor.
 - Worked on the AND Digital Website Refresh Project, a complete overhaul of 
