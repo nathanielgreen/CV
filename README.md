@@ -72,8 +72,8 @@ We use blockchain technology to ensure the security of documentation handovers.
   [Truffle Suite](https://www.truffleframework.com/) (Truffle, Ganache, Drizzle).
 - Worked on writing performant and accessible front-end applications in Angular 5/6 
   for use in enterprise environments, with multi-browser and browser version 
-  support, tested with Browser Stack.
-- Created responsive and interactive UI designs used by the product in design
+  support, tested with [Browser Stack](https://www.browserstack.com/).
+- Created responsive and interactive UI designs of the main product, using design
   tool [Figma](https://www.figma.com).
 
 ## AND Digital (February 2017 to February 2018)
