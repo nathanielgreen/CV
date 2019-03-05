@@ -94,7 +94,7 @@ We use blockchain technology to ensure the security of documentation handovers.
     - Adhering to strict styleguide and accessibility rules.
     - Building CMS capabilities for the marketing team using Wordpress & PHP.
 - Worked on AND Digital's internal projects/applications using front-end 
-  technolgoies such as React, Redux, Enzyme, Nightwatch.
+  technologies such as React, Redux, Enzyme, Nightwatch.
 - Got involved in the company's DevOps and learnt new skills (Docker, Jenkins,
   Rancher).
 - Aided in UI/UX discovery sprint for an internal project where I and 3 others
