@@ -14,10 +14,6 @@ and Associate Product Developer at [AND Digital](https://and.digital/).
   (Progressive Web App) built with Vue.js+Vuex and PouchDB. The app presents the
   analog organization system [Bullet Journal](http://bulletjournal.com/) in
   the digital form of a PWA.
-- [UNDRGRND](https://github.com/nathanielgreen/UNDRGRND): an ongoing personal
-  project of mine; UNDRGRND is a social network for the underground music scene.
-  Built to enable me to practice some of my favourite tech, such as Nuxt.js, Vue.js,
-  and GraphQL.
 - [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
   Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
   sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
