@@ -67,9 +67,9 @@ Kubernetes, Netlify, Canvas Animation
 - Worked on multiple clients careers sites with a heavy focus on accessability,
   design, performance, and animation. Such clients include Knight Frank, 
   Lloyds of London, Colt, The Stars Group, and more.
-- Built slot machine, horse racing, and boxing games using Canvas animation for 
+- Built interactive slot machine, horse racing, and boxing games using Canvas animation for 
   The Stars Group career site.
-- Developed and implemented company-wide Git workflows and standards, enable
+- Developed and implemented company-wide Git workflows and standards, enabling
   more efficient collaboration across all projects.
 
 
