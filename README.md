@@ -1,8 +1,8 @@
 # Nathaniel Green
 
 A technology enthusiast with a passion for creating new things. Currently 
-available for full-time employment as a Full-stack Developer, in London
-UK.
+working as a Software Engineer at [Wiser](https://wearewiser.com).
+
 Previously employed as a Software Engineer at [Veratrak](https://veratrak.com/),
 and Associate Product Developer at [AND Digital](https://and.digital/).
 
@@ -36,21 +36,42 @@ and Associate Product Developer at [AND Digital](https://and.digital/).
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
-`Nuxt.js` `Vue.js` `CSS Grid` `PWA` `Elixir` `Rust` `Web Assembly`
+`Gatsby` `JAMStack` `Serverless` `Rust` `Web Assembly`
 
 The rest of the tech I've used before:
 
-| Category   | Tech                                                                                       |
-|:----------:| ------------------------------------------------------------------------------------------ | 
-| Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Rust, Solidity                                      |
-| Frameworks | React+Redux, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor        |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress          |
-| Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                             |
-| DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                   |
-| Other      | TensorFlow, Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                   |
-| APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                           |
+| Category   | Tech                                                                                        |
+|:----------:| ------------------------------------------------------------------------------------------- | 
+| Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Rust, Solidity                                       |
+| Frameworks | React+Redux, Gatsby, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress, Backstop |
+| Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                              |
+| DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                    |
+| Other      | TensorFlow, Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                    |
+| APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                            |
 
 # Work 
+
+## Wiser (July 2019 to Present)
+
+**Role**: Software Engineer
+
+**Technology**: Angular 6+, Typescript, Flutter, Dart, Google Cloud Platform,
+Kubernetes, Netlify, Canvas Animation
+
+**Company Website**: https://wearewiser.com
+
+- Built a cross-platform app with Flutter, enabling students across the UK to complete
+  tasks for the Wiser Academy, an internal recruitment initiative targeting university
+  students.
+- Worked on multiple clients careers sites with a heavy focus on accessability,
+  design, performance, and animation. Such clients include Knight Frank, 
+  Lloyds of London, Colt, The Stars Group, and more.
+- Built slot machine, horse racing, and boxing games using Canvas animation for 
+  The Stars Group career site.
+- Developed and implemented company-wide Git workflows and standards, enable
+  more efficient collaboration across all projects.
+
 
 ## Veratrak (July 2018 to January 2019)
 
@@ -166,6 +187,5 @@ Makers Academy is a 12 week full-time coding bootcamp.
 
 - Email: n@ngreen.io
 - Github: https://github.com/nathanielgreen
-- Gitlab: https://gitlab.com/nathanielgreen
 - CV: https://github.com/nathanielgreen/CV
 - Website: https://ngreen.io
