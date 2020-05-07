@@ -22,17 +22,6 @@ and Associate Product Developer at [AND Digital](https://and.digital/).
   app built for iOS and Android using the Ionic Framework and Rails for the
   back end.
 
-## Fast and Passionate Learner
-
-- Having a strong interest in SPAs and optimization influenced my decision
-  to learn [Nuxt.js](https://nuxtjs.org/), a powerful Vue.js framework that
-  allows you to develop Server Side Rendered Vue.js web and progressive web
-  applications.
-- Whilst attending Makers Academy web development bootcamp, I grasped a good 
-  understanding of multiple languages and different technologies 
-  in a short space of time through self-taught learning and using online resources, 
-  as well as the bootcamps resources.
-
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
@@ -78,10 +67,9 @@ Kubernetes, Netlify, Canvas Animation
 
 **Technology**: React, Gatsby, Styled Components, XLSX, Serverless, Node, Netlify
 
-Worked on upgrading 4 existing sites to a cohesive tech stack, with an emphasis
+- Worked on upgrading 4 existing sites to a cohesive tech stack, with an emphasis
 on performance, SEO, and future customization.
-
-Created an internal tool to automate the creation of PDF's from Excel 
+- Created an internal tool to automate the creation of PDF's from Excel 
 Spreadsheets using React and Serverless Functions.
 
 
