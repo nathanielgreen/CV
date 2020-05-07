@@ -72,6 +72,18 @@ Kubernetes, Netlify, Canvas Animation
 - Developed and implemented company-wide Git workflows and standards, enabling
   more efficient collaboration across all projects.
 
+## Anath Capital Group (February 2020 - Present)
+
+**Role**: Freelance Web Developer
+
+**Technology**: React, Gatsby, Styled Components, XLSX, Serverless, Node, Netlify
+
+Worked on upgrading 4 existing sites to a cohesive tech stack, with an emphasis
+on performance, SEO, and future customization.
+
+Created an internal tool to automate the creation of PDF's from Excel 
+Spreadsheets using React and Serverless Functions.
+
 
 ## Veratrak (July 2018 to January 2019)
 
