@@ -85,7 +85,7 @@ We use blockchain technology to ensure the security of documentation handovers.
 
 **Role**: Associate Product Developer
 
-**Technology**: React+Redux, Node, Angular 1.6+, TensorFlow, Vue, Wordpress/PHP, Docker ,Jenkins, Rancher
+**Technology**: React+Redux, Node, Angular 1.6+, TensorFlow, Vue, Wordpress/PHP, Docker, Jenkins, Rancher
 
 **Company Website**: http://and.digital
  
@@ -132,7 +132,6 @@ and links on how/where to contact him.
 - **Role**: Freelance Web Developer
 - **Technology**: Ruby, Sinatra, HTML, CSS
 - **Repository**: http://github.com/nathanielgreen/showstar
-- **Website**: http://www.showstarents.co.uk
 
 Built a website for the company ShowStar Entertainments, to showcase various
 clubs and events owned by Showstar Entertainments. The website was also built in
