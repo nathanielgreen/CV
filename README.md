@@ -6,39 +6,6 @@ working as a Software Engineer at [Wiser](https://wearewiser.com).
 Previously employed as a Software Engineer at [Veratrak](https://veratrak.com/),
 and Associate Product Developer at [AND Digital](https://and.digital/).
 
-# Skills
-
-## Web Development
-
-- [Bullet Buddy](https://github.com/nathanielgreen/bulletbuddy): A PWA
-  (Progressive Web App) built with Vue.js+Vuex and PouchDB. The app presents the
-  analog organization system [Bullet Journal](http://bulletjournal.com/) in
-  the digital form of a PWA.
-- [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
-  Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
-  sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
-  into the Uber API.
-- [Ravebot](https://github.com/nathanielgreen/ravebot): a social playlist curation
-  app built for iOS and Android using the Ionic Framework and Rails for the
-  back end.
-
-## Technologies and Languages
-
-Some of my favourite tech at the moment:
-`Gatsby` `JAMStack` `Serverless` `Rust` `Web Assembly`
-
-The rest of the tech I've used before:
-
-| Category   | Tech                                                                                        |
-|:----------:| ------------------------------------------------------------------------------------------- | 
-| Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Rust, Solidity                                       |
-| Frameworks | React+Redux, Gatsby, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress, Backstop |
-| Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                              |
-| DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                    |
-| Other      | TensorFlow, Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                    |
-| APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                            |
-
 # Work 
 
 ## Wiser (July 2019 to Present)
@@ -53,10 +20,10 @@ Kubernetes, Netlify, Canvas Animation
 - Built a cross-platform app with Flutter, enabling students across the UK to complete
   tasks for the Wiser Academy, an internal recruitment initiative targeting university
   students.
-- Worked on multiple clients careers sites with a heavy focus on accessability,
-  design, performance, and animation. Such clients include Knight Frank, 
-  Lloyds of London, Colt, The Stars Group, and more.
-- Built interactive slot machine, horse racing, and boxing games using Canvas animation for 
+- Worked on multiple clients' careers sites with a heavy focus on accessability,
+  design, performance and animation. Such clients include Knight Frank, 
+  Lloyds of London, Colt, The Stars Group and more.
+- Built interactive slot machine, horse racing and boxing games using Canvas animation for 
   The Stars Group career site.
 - Developed and implemented company-wide Git workflows and standards, enabling
   more efficient collaboration across all projects.
@@ -71,7 +38,7 @@ Kubernetes, Netlify, Canvas Animation
 
 Veratrak is the next generation solution for storing, protecting, and
 collaborating on critical documentation in the pharmaceutical supply chain.
-We use blockchain technology to ensure the security of documentation handovers.
+They use blockchain technology to ensure the security of documentation handovers.
 
 - Created a Smart Contract for use in our product using the 
   [Truffle Suite](https://www.truffleframework.com/) (Truffle, Ganache, Drizzle).
@@ -136,6 +103,40 @@ and links on how/where to contact him.
 Built a website for the company ShowStar Entertainments, to showcase various
 clubs and events owned by Showstar Entertainments. The website was also built in
 close contact with the client to specific design requests.
+
+# Skills
+
+## Web Development
+
+- [Bullet Buddy](https://github.com/nathanielgreen/bulletbuddy): A PWA
+  (Progressive Web App) built with Vue.js+Vuex and PouchDB. The app presents the
+  analog organization system [Bullet Journal](http://bulletjournal.com/) in
+  the digital form of a PWA.
+- [Ushare](https://github.com/nathanielgreen/Ushare): my final project at
+  Makers Academy built over the course of 2 weeks in a team of 4. An Uber Cab
+  sharing app built using Meteor, Leaflet.js, with a Rails back end, hooking
+  into the Uber API.
+- [Ravebot](https://github.com/nathanielgreen/ravebot): a social playlist curation
+  app built for iOS and Android using the Ionic Framework and Rails for the
+  back end.
+
+## Technologies and Languages
+
+Some of my favourite tech at the moment:
+`Gatsby` `JAMStack` `Serverless` `Rust` `Web Assembly`
+
+Some of the tech I've used before:
+
+| Category   | Tech                                                                                        |
+|:----------:| ------------------------------------------------------------------------------------------- | 
+| Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Rust, Solidity                                       |
+| Frameworks | React+Redux, Gatsby, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress, Backstop, Storybook |
+| Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                              |
+| DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                    |
+| Other      | TensorFlow, Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                    |
+| APIs       | Mapbox, Leaflet.js, Google Maps, Youtube, Trello                                            |
+
 
 # Education
 
