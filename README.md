@@ -123,15 +123,15 @@ close contact with the client to specific design requests.
 ## Technologies and Languages
 
 Some of my favourite tech at the moment:
-`Gatsby` `JAMStack` `Serverless` `Rust` `Web Assembly`
+`Next.js` `JAMStack` `Serverless` `Rust` `Web Assembly`
 
 Some of the tech I've used before:
 
 | Category   | Tech                                                                                        |
 |:----------:| ------------------------------------------------------------------------------------------- | 
 | Languages  | Javascript, HTML5, CSS3, Ruby, Elixir, Rust, Solidity                                       |
-| Frameworks | React+Redux, Gatsby, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor |
-| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress, Backstop, Storybook |
+| Frameworks | React+Redux, Gatsby, Next.js, Node+Express, Rails, Vue+Vuex, Nuxt, Phoenix, Truffle, Angular, Meteor |
+| Testing    | Jasmine, Enzyme, Nightwatch, Mocha, Chai, Rspec, Jest, Protractor, Karma, Cypress, Storybook |
 | Databases  | MongoDB, PostgreSQL, Firebase, MySQL, GraphQL, CouchDB/PouchDB                              |
 | DevOps     | Docker, AWS, DigitalOcean, Netlify, Rancher, Jenkins, Codeship, CircleCI                    |
 | Other      | TensorFlow, Smart Contracts, Blockchain, Git, Webpack, Heroku, Wordpress                    |
