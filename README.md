@@ -12,20 +12,20 @@ and Associate Product Developer at [AND Digital](https://and.digital/).
 
 **Role**: Software Engineer
 
-**Technology**: Angular 6+, Typescript, Flutter, Dart, Google Cloud Platform,
-Kubernetes, Netlify, Canvas Animation
+**Technology**: Angular 6+, React, Next.js, Typescript, Flutter, Google Cloud Platform,
+Kubernetes, Netlify, GSAP, Canvas
 
 **Company Website**: https://wearewiser.com
 
 - Built a cross-platform app with Flutter, enabling students across the UK to complete
   tasks for the Wiser Academy, an internal recruitment initiative targeting university
   students.
-- Worked on multiple clients' careers sites with a heavy focus on accessability,
-  design, performance and animation. Such clients include Knight Frank, 
-  Lloyds of London, Colt, The Stars Group and more.
+- Worked on multiple clients' careers sites with a heavy focus on accessibility,
+  design, performance and animation. Such clients include but are not limited
+  to: Frasers Group, NHS, Knight Frank, Lloyds of London, Colt, and The Stars Group.
 - Built interactive slot machine, horse racing and boxing games using Canvas animation for 
   The Stars Group career site.
-- Developed and implemented company-wide Git workflows and standards, enabling
+- Developed and implemented company-wide Git workflows and code quality standards, enabling
   more efficient collaboration across all projects.
 
 ## Veratrak (July 2018 to January 2019)
